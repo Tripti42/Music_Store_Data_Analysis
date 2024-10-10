@@ -3,7 +3,8 @@
 ## Overview
 This project focuses on analyzing data from a music store to uncover insights about customer spending, popular music genres, and artists. We used SQL for data analysis and Tableau to create visualizations.
 
- ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a01c3e91-0c6f-4071-aaf6-5f55629fec09)
+
 
 
 
